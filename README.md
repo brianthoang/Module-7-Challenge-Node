@@ -30,3 +30,6 @@ To test, input "npm test"
 Questions
 https://github.com/brianthoang
 brianhoang36@gmail.com
+
+Video Presentation listed below: 
+https://drive.google.com/file/d/1wYDBqDEC3qWjBJBkcgQc65CHFCuXnsbM/view
